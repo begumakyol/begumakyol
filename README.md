@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="400" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*iWAU7ljOPwNY55SegEqjZw.jpeg"  />
+  <img height="400" src="https://img.freepik.com/free-vector/cute-girl-moslem-busy-with-work-cartoon-vector-icon-illustration-people-education-isolated-flat_138676-14788.jpg?semt=ais_hybrid&w=740"  />
 </div>
 
 ###
