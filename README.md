@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left"> 🔭 I’m working as a Software Developer<br> 📚 I'm currently learning about React Native.</p>
+<p align="left"> 🔭 I’m working as a Software Developer<br> 📚 I'm currently learning about microservice architecture.</p>
 
 ###
 
